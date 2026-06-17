@@ -118,4 +118,7 @@ npm install -g newman-reporter-htmlextra
 newman run "Restful Booker.postman_collection.json" -e "Restful Booker.postman_collection.json" -r htmlextra   --reporter-htmlextra-export report.html
 ```
 
+#### Newman result:
+<img width="1411" height="725" alt="image" src="https://github.com/user-attachments/assets/665c37a3-98d0-411c-8198-9b8033ae45fb" />
+
 ---
